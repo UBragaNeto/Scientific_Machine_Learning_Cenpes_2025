@@ -28,6 +28,23 @@ Afternoon:
 ### Afternoon:
 - Lab 3: Solving forward and inverse problems with Gaussian Processes
 
+- ## Day 4
+### Morning:
+- Introduction to Model Order Reduction 
+- Physics-based MOR: Linear and Nonlinear Model Reduction
+- Data-driven MOR Part 1: System Identification, SINDy, DMD 
+
+### Afternoon:
+- Lab 4a: Tutorial on Balanced Truncation, Krylov Subspaces, POD, POD-DEIM
+- Lab 4b: POD-DEIM for reservoir simulation
+
+## Day 5
+### Morning:
+- Data-driven MOR Part 2: DMDc, OpInf, E2C0, FNO
+
+### Afternoon:
+- Lab 5: Implementation for  baisc data-driven MOR for reservoir simulation
+
 ## References
 1. Braga-Neto, [_Fundamentals of pattern recognition and machine learning_](https://braganeto.engr.tamu.edu/book-website-2nd-edition/), 2nd edition, Springer, 2024.\
 This textbook covers traditional Machine Learning in detail, and also has a chapter on Scientific Machine Learning.
@@ -40,3 +57,13 @@ This is a code-oriented introduction to deep learning.
 
 4. Chris Rackauckas’s MIT class [“Parallel Computing and Scientific Machine Learning](https://github.com/mitmath/18337)\ 
 This class features parallel computing and Scientific Machine Learning topics. 
+
+5. Model Reduction and Approximation: Theory and Algorithms edited by Peter Benner, Albert Cohen, Mario Ohlberger, Karen Willcox. SIAM 2017
+
+6. Athanasios C. Antoulas.  Approximation of Large-Scale Dynamical Systems. SIAM 2006 
+
+7.  Steven L. Brunton and J. Nathan Kutz.   Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control. 1st Edition, Cambridge University Press; 2019.
+   
+9.  J. N. Kutz, S. L. Brunton, B. Brunton, J.L.Proctor. Dynamic Mode Decomposition: Data-Driven Modeling of Complex Systems.  SIAM-Society for Industrial and Applied Mathematics, 2016
+
+10. Nathan Kutz,  Data-Driven Modeling & Scientific Computation: Methods for Complex Systems & Big Data.  1st Edition, OUP Oxford, 2013
