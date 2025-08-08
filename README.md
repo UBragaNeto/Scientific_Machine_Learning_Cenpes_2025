@@ -28,7 +28,7 @@ Afternoon:
 ### Afternoon:
 - Lab 3: Solving forward and inverse problems with Gaussian Processes
 
-- ## Day 4
+## Day 4
 ### Morning:
 - Introduction to Model Order Reduction 
 - Physics-based MOR: Linear and Nonlinear Model Reduction
