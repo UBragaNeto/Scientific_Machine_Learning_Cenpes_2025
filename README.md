@@ -43,7 +43,7 @@ Afternoon:
 - Data-driven MOR Part 2: DMDc, OpInf, E2C0, FNO
 
 ### Afternoon:
-- Lab 5: Implementation for  baisc data-driven MOR for reservoir simulation
+- Lab 5: Implementation for basic data-driven MOR for reservoir simulation
 
 ## References
 1. Braga-Neto, [_Fundamentals of pattern recognition and machine learning_](https://braganeto.engr.tamu.edu/book-website-2nd-edition/), 2nd edition, Springer, 2024.\
