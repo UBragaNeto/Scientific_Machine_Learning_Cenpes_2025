@@ -2,33 +2,28 @@
 
 This repository will contain all presentation slides, lab handouts, and lab code for the Scientific Machine Learning workshop at Cenpes. 
 
-The workshop offers an opportunity for attendees to improve their analytical and computational skills in the rapidly-developing field of scientific machine learning, while preparing them to work in highly interdisciplinary research and development projects. The workshop is structured as follows:
+The workshop offers an opportunity for attendees to improve their analytical and computational skills in the rapidly-developing field of scientific machine learning and data-driven model order reduction, while preparing them to work in highly interdisciplinary research and development projects. The workshop is structured as follows:
 
-## Day 1
+## Day 1 (Braga Neto)
 ### Morning: 
 - Introduction and overview
-- Basics of Machine Learning, focusing on regression techniques
-
-### Afternoon:
-- Lab 1: Polynomial regression; Running a trained Navier-Stokes PINN
-
-## Day 2
-Morning:
-- Deep Neural Network training
+- Deep Neural Networks
 - Physics-Informed Neural Networks (PINN)
+  
+### Afternoon:
+- Lab 1: PINN solution of forward and inverse problems
 
-Afternoon:
-- Lab 2: Training a PINN to solving forward and inverse problems
-
-## Day 3
+## Day 2 (Braga Neto)
 ### Morning:
+- Neural Operators
+- Uncertainty Quantification
 - Gaussian Process regression
-- Bayesian PDE solvers
+- Probabilistic PDE solvers
 
 ### Afternoon:
-- Lab 3: Solving forward and inverse problems with Gaussian Processes
+- Lab 2: Probabilistic solution of forward and inverse problems
 
-## Day 4
+## Day 3 (Gildin)  
 ### Morning:
 - Introduction to Model Order Reduction 
 - Physics-based MOR: Linear and Nonlinear Model Reduction
@@ -38,12 +33,12 @@ Afternoon:
 - Lab 4a: Tutorial on Balanced Truncation, Krylov Subspaces, POD, POD-DEIM
 - Lab 4b: POD-DEIM for reservoir simulation
 
-## Day 5
+## Day 4 (Gildin)
 ### Morning:
 - Data-driven MOR Part 2: DMDc, OpInf, E2C0, FNO
 
 ### Afternoon:
-- Lab 5: Implementation for  baisc data-driven MOR for reservoir simulation
+- Lab 5: Implementation of basic data-driven MOR for reservoir simulation
 
 ## References
 1. Braga-Neto, [_Fundamentals of pattern recognition and machine learning_](https://braganeto.engr.tamu.edu/book-website-2nd-edition/), 2nd edition, Springer, 2024.\
